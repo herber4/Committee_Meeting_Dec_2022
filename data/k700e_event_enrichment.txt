@@ -1,0 +1,11 @@
+Enrichment FDR	nGenes	Pathway Genes	Fold Enrichment	Pathway
+0.013489612	2	5	142.475	PML body organization 
+0.025374538	2	9	79.15277778	Histone H2A-K119 monoubiquitination 
+0.013906315	3	33	32.38068182	Histone H2A ubiquitination 
+0.027709111	5	211	8.440462085	Mitotic spindle organization 
+0.013906315	6	274	7.799726277	Spindle organization 
+0.003666526	9	446	7.187640135	Neg. reg. of cell cycle proc. 
+0.020742968	6	301	7.100083056	Protein-containing complex localization 
+0.020742968	7	433	5.758227483	Peptidyl-lysine modification 
+0.013489612	8	497	5.733400402	Histone modification 
+0.020742968	7	435	5.731752874	Reg. of mRNA metabolic proc. 

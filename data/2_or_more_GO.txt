@@ -1,0 +1,11 @@
+Enrichment FDR	nGenes	Pathway Genes	Fold Enrichment	Pathway
+0.003074971	8	121	7.535867769	MRNA export from nucleus 
+0.004903264	13	384	3.858697917	Nuclear transport 
+0.004903264	14	433	3.685265589	Peptidyl-lysine modification 
+0.004903264	15	497	3.440040241	Histone modification 
+0.004903264	17	615	3.150666667	Mitotic cell cycle 
+6.09E-05	33	1331	2.825950413	Protein modification by conjugation or removal 
+0.001510261	25	1022	2.78816047	Protein ubiquitination 
+4.42E-05	36	1496	2.742834225	Cell cycle proc. 
+0.001510261	26	1092	2.713809524	Chromosome organization 
+0.004903264	23	1005	2.608497512	DNA damage response
